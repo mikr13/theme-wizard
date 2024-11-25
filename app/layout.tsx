@@ -58,7 +58,7 @@ export default function RootLayout({
                   .
                 </p>
                 <p className="text-center text-sm leading-loose text-muted-foreground md:text-left">
-                  Inspired by by{" "}
+                  Inspired by{" "}
                   <a
                     href="https://www.realtimecolors.com"
                     target="_blank"
